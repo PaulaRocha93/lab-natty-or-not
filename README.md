@@ -11,3 +11,4 @@ ChatGPT e Gamma.app
 Após definir o tema do e-book solicitei que o chat GPT criasse o texto do documento e fui refinando o conteúdo gerado. Após definir o texto do e-book, por meio do Gamma.app, solicitei a geração de imagens, aprimoramento do texto (deixar mais claro ou mais direto) e criação do documento final anexado.
 
 ## 🚀 Resultados
+[Prevencao-do-Cancer-de-Mama-Seu-Guia-Completo.pdf](https://github.com/user-attachments/files/17948307/Prevencao-do-Cancer-de-Mama-Seu-Guia-Completo.pdf)
